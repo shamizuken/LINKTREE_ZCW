@@ -11,6 +11,22 @@ J'y ai mis :
 - Une listes des animes que je regarde.
 - Mes profils sur Github, Letterboxd et Goodreads.
 
+## Objectifs et exigences du projet. 🎯
+
+- Créer un Linktree uniquement en HTML et CSS.
+- Respecter le principe Mobile First.
+- Interface responsive sans scrolling.
+- Respecter les balises sémantiques.
+  
+Intégrer :
+- 1 image de profil,
+- 1 titre,
+- 1 sous-titre,
+- 3 boutons de lien,
+- 3 icônes,
+- 1 footer,
+- Ajouter 3 animations CSS.
+  
 ## Technologies utilisées. 🤖
 
 - HTML.
